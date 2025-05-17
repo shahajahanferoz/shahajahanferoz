@@ -59,8 +59,14 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahajahanferoz&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahajahanferoz&show_icons=true&theme=radical&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahajahanferoz&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahajahanferoz&layout=compact&theme=radical&hide_title=true&langs_count=6" alt="Top Languages" width="50%" />
 </p>
 
 ---
